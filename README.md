@@ -1,6 +1,4 @@
-# 1-uzd.
-**Task** *1*
-
-Mano pirmas repo
-1. fdfdfdf
-2. dfdfdfdf
+# Versija 0.2
+Modifikuota versiją (v0.2).
+* Visos eilutės saugomos struktūroje
+* Nadotojas nurodo rėmelio plotį (eilučių skaičių) ir pasisveikinimas išliktų rėmelio viduje.
