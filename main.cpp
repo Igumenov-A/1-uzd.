@@ -1,16 +1,11 @@
 #include <iostream>
 
-using namespace std;
-
-
-
 int main()
 {
         std::string var, eil1="*", eil2="*", eil3="* ", eil4;
 
         std::cout << "Vardas?" << std::endl;
         std::cin>>var;
-        //if (*var.rbegin() == 's') eil4="Sveikas, "; else eil4="Sveika, ";
         eil3+=eil4+var+"! *\n";
         int n=eil3.length();
 
