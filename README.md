@@ -1,6 +1,3 @@
-# 1-uzd.
-**Task** *1*
-
-Mano pirmas repo
-1. fdfdfdf
-2. dfdfdfdf
+# Versija 0.2
+Versija 0.1 praplesta:
+Modifikuokite versiją (v0.1) taip, kad jeigu vartotojas yra moteris, tuomet vietoj "Sveikas, " rašytų "Sveika, ". 
