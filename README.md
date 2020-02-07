@@ -18,6 +18,6 @@ Modifikuota versiją (v0.2).
 * Nadotojas nurodo rėmelio plotį (eilučių skaičių) ir pasisveikinimas išliktų rėmelio viduje.
 
 Opublikuotos versijos:
-- [v0,1]()
+- [v0.1]()
 - [v0.2]()
 - [v1.0]()
