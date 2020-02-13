@@ -4,10 +4,10 @@ Programa turi nuskaito naudotojo vardą (pvz. Aleksandr) ir atspausdinti "įrėm
 
 ## Įdiegimas (Unix kompiuteryje) naudojant `Clang`kompiliatorių 
 
-- `git clone https://github.com/objprog/pasisveikinimas.git`
-- `cd pasisveikinimas`
-- `clang++ -std=c++11 pasisveikinimas.cpp -o pasisveikinimas`
-- `./pasisveikinimas`
+- `git clone https://github.com/Igumenov-A/1-uzd..git`
+- `cd 1-uzd.`
+- `clang++ -std=c++11 main.cpp -o main`
+- `./main`
 
 ## Versijų istorija (changelog)
 
